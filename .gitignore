@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data and Artifacts
+data/
+*.pth
+*.npy
+*.csv
+*.jsonl
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

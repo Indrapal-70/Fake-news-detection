@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+scikit-learn
+pandas
+numpy
+pillow
+opencv-python
+streamlit
+matplotlib
+seaborn
+ftfy
+regex
+tqdm
