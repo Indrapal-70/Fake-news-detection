@@ -10,8 +10,10 @@ Image ──► CLIP Image Encoder ──┐
 Text  ──► Text Encoder ───────┘
 ```
 
-## Dataset download link
-```https://figshare.com/articles/dataset/Image_and_Text_Fake_News_Detection_Dataset/28735676```
+## Dataset download link:
+```bash 
+https://figshare.com/articles/dataset/Image_and_Text_Fake_News_Detection_Dataset/28735676
+```
 
 ## Tech Stack
 - **Image Encoder**: CLIP (ViT-B/32)
